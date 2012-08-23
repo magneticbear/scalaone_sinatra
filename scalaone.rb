@@ -15,5 +15,5 @@ post '/messages' do
 	Pusher.app_id = '26274'
     Pusher.key = '28f1d32eb7a1f83880af'
     Pusher.secret = '9514f2b210d56f1d5869'
-	Pusher['test_channel'].trigger('new_message', :message => params['message'])
+	Pusher['ScalaOne'].trigger('new_message', :message => params['message'])
 end
