@@ -18,7 +18,7 @@ get '/messages' do
 end
 
 post '/messages' do
-	Pusher['ScalaOne'].trigger('new_message', :message => params['message'])
+	Pusher['ScalaOne'].trigger('new_message', :message => params['text'], :senderID => params['senderID'], :dateSent => params['dateSent'])
 	content_type :json
 	{ :success => 1 }.to_json
 end
