@@ -16,4 +16,6 @@ post '/messages' do
     Pusher.key = '28f1d32eb7a1f83880af'
     Pusher.secret = '9514f2b210d56f1d5869'
 	Pusher['ScalaOne'].trigger('new_message', :message => params['message'])
+	content_type :json
+	{ :success => 1 }.to_json
 end
