@@ -6,6 +6,8 @@ _Note 2: Image names are given for non-retina, append @2x for the retina version
 
 ## Speaker Page
 
+### [Link](https://github.com/magneticbear/scalaone_sinatra/blob/master/design/web-handoff-speaker.png)
+
 ### 0. Background
 
 * **Color:** #EDG8FB
@@ -55,6 +57,8 @@ _Note 2: Image names are given for non-retina, append @2x for the retina version
 * **Image Size:** 12x17 pt
 
 ## Event Page
+
+### [Link](https://github.com/magneticbear/scalaone_sinatra/blob/master/design/web-handoff-event.png)
 
 ### 0. Background
 
