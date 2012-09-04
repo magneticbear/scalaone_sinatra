@@ -10,7 +10,7 @@ _Note 2: Image names are given for non-retina, append @2x for the retina version
 
 ### 0. Background
 
-* **Color:** #EDG8FB
+* **Color:** #EDF8FB
 
 ### 1. Speaker Name
 
@@ -62,7 +62,7 @@ _Note 2: Image names are given for non-retina, append @2x for the retina version
 
 ### 0. Background
 
-* **Color:** #EDG8FB
+* **Color:** #EDF8FB
 
 ### 1. Event Title
 
