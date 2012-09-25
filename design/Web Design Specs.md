@@ -6,7 +6,7 @@ _Note 2: Image names are given for non-retina, append @2x for the retina version
 
 ## Speaker Page
 
-### ![Speaker Page](https://github.com/magneticbear/scalaone_sinatra/blob/master/design/web-handoff-speaker.png)
+### ![Speaker Page](https://raw.github.com/magneticbear/scalaone_sinatra/master/design/web-handoff-speaker.png)
 
 ### 0. Background
 
@@ -58,7 +58,7 @@ _Note 2: Image names are given for non-retina, append @2x for the retina version
 
 ## Event Page
 
-### ![Event Page](https://github.com/magneticbear/scalaone_sinatra/blob/master/design/web-handoff-event.png)
+### ![Event Page](https://raw.github.com/magneticbear/scalaone_sinatra/master/design/web-handoff-event.png)
 
 ### 0. Background
 
